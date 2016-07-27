@@ -1,6 +1,6 @@
 # LabVIEW-MSCL
 
-[Download the latest version](https://github.com/LORD-MicroStrain/LabVIEW-MSCL/releases/latest).
+[Download the latest release](https://github.com/LORD-MicroStrain/LabVIEW-MSCL/releases/latest).
 
 LabVIEW-MSCL is a VI package that provides an easy to implement LabVIEW interface to the .NET version of [MSCL](https://github.com/LORD-MicroStrain/MSCL).
 
