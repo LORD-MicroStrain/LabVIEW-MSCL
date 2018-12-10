@@ -13,4 +13,4 @@ Select the `Help` menu, and choose the `Find Examples...` option. In the NI Exam
 #### License
 MIT License - see the LICENSE.txt file in the source distribution.
 
-Copyright (C) 2016 LORD Corporation. All Rights Reserved.
+Copyright (C) 2018 LORD Corporation. All Rights Reserved.
